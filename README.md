@@ -4,8 +4,8 @@
 ## How to Run
 
 1. **Google Colab Notebooks:**
-   - [notebook_1.ipynb (Colab Link)]()
-   - [notebook_2.ipynb (Colab Link)]()
+   - [Notebook 1](https://colab.research.google.com/drive/1toEazBk7WgHuDP1GZMNb0tj5edjPf594?usp=sharing)
+   - [Notebook 2](https://colab.research.google.com/drive/1WbbKhgomUOU5ICTh3CMWuaebfJNptsYB?usp=sharing)
 
 2. **Data Files:**
    - Place the provided CSV files in the `csv_files/` directory.
@@ -18,8 +18,7 @@
 
 ## Data Sources
 
-- [Historical Trader Data](PASTE_DATASET_LINK_HERE)
-- [Fear & Greed Index](PASTE_DATASET_LINK_HERE)
+- Provided by Primetrade.ai
 
 ---
 
@@ -45,6 +44,6 @@
 
 ## GitHub Repository
 
-- [GitHub Repo Link]()
+- [GitHub Repo Link](https://github.com/algorhythm-7/ds_elena_margaret_ellis)
 
 ---

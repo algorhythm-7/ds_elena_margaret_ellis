@@ -38,7 +38,7 @@
 ## Notes
 
 - All code is written and tested in Google Colab.
-- For any issues or questions, please contact: elenaellis420@gmail.com
+- For any issues or questions, please contact: elenaellism@gmail.com
 
 ---
 
